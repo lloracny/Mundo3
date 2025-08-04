@@ -10,4 +10,3 @@ print(c.index(2, 2)) #O elemento 2 a partir da posição 2
 
 
 
-
