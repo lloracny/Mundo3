@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e1c70d3-395c-497c-873b-57871ec1ce8d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Aula 17 - Variáveis Compostas (Listas) - Parte 1" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 17 - Variáveis Compostas (Listas) - Parte 1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 17 - Variáveis Compostas (Listas) - Parte 1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 17 - Variáveis Compostas (Listas) - Parte 1/.idea/Aula 17 - Variáveis Compostas (Listas) - Parte 1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 17 - Variáveis Compostas (Listas) - Parte 1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 17 - Variáveis Compostas (Listas) - Parte 1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 17 - Variáveis Compostas (Listas) - Parte 1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 17 - Variáveis Compostas (Listas) - Parte 1/.idea/vcs.xml" beforeDir="false" />
+    <list default="true" id="4e1c70d3-395c-497c-873b-57871ec1ce8d" name="Changes" comment="Adicionando Aulas Completas">
       <change beforePath="$PROJECT_DIR$/Aula 18 - Variáveis Compostas (Listas) - Parte 2" beforeDir="false" afterPath="$PROJECT_DIR$/Aula 18 - Variáveis Compostas (Listas) - Parte 2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 18 - Variáveis Compostas (Listas) - Parte 2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 18 - Variáveis Compostas (Listas) - Parte 2/.idea/Aula 18 - Variáveis Compostas (Listas) - Parte 2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 18 - Variáveis Compostas (Listas) - Parte 2/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 18 - Variáveis Compostas (Listas) - Parte 2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 18 - Variáveis Compostas (Listas) - Parte 2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aula 18 - Variáveis Compostas (Listas) - Parte 2/.idea/vcs.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +11,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -38,8 +26,10 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/Ana_C/OneDrive/Documentos/Projetos/Curso em Vídeo/Python/Mundo 3",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -47,7 +37,6 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-PY-251.26094.141" />
         <option value="bundled-python-sdk-9f8e2b94138c-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26094.141" />
       </set>
     </attachedChunks>
@@ -62,9 +51,22 @@
       <workItem from="1753138552172" duration="6000" />
       <workItem from="1753207033243" duration="54000" />
     </task>
+    <task id="LOCAL-00001" summary="Adicionando Aulas Completas">
+      <option name="closed" value="true" />
+      <created>1754328960672</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1754328960674</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adicionando Aulas Completas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionando Aulas Completas" />
   </component>
 </project>
